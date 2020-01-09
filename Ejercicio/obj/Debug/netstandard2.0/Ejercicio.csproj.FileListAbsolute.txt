@@ -1,0 +1,13 @@
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/bin/Debug/netstandard2.0/Ejercicio.deps.json
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/bin/Debug/netstandard2.0/Ejercicio.dll
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/bin/Debug/netstandard2.0/ref/Ejercicio.dll
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/bin/Debug/netstandard2.0/Ejercicio.pdb
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/Ejercicio.csprojAssemblyReference.cache
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/Ejercicio.AssemblyInfoInputs.cache
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/Ejercicio.AssemblyInfo.cs
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/Ejercicio.dll
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/ref/Ejercicio.dll
+/Users/alonsoaraujo/Projects/Ejercicio/Ejercicio/obj/Debug/netstandard2.0/Ejercicio.pdb

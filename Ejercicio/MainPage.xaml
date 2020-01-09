@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Ejercicio.MainPage">
+    <StackLayout>
+        <Label Text="{Binding version_so}" />
+        <Entry Placeholder="marca"></Entry>
+        <Entry Placeholder="modelo"></Entry>
+        <Entry Placeholder="año"></Entry>
+        <Button Text="Agregar" Command="{Binding GuardarCarroCommand}" />
+
+        <ListView ItemsSource="{Binding cars}" >
+            <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Frame>
+                                    <StackLayout>
+                                        <Label Text="{Binding marca}" FontAttributes="Bold" />
+                                        <Label Text="{Binding modelo}" />
+                                        <Label Text="{Binding anio}" />
+                                    </StackLayout>
+                                </Frame>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>
